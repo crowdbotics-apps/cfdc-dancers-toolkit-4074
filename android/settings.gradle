@@ -1,0 +1,3 @@
+rootProject.name = 'cfdc_dancers_toolkit_4074'
+
+include ':app'
